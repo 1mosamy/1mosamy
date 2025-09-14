@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mohamed Samy!  
-💻 CS & Statistics Student | Back-End Developer (PHP & Laravel)  
+💻 CS & Statistics Student | PHP & Laravel Backend Developer
 
 ---
 
@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
 </div>  
 
+
 **Frameworks & Tools:**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
@@ -25,10 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
 </div>  
 
+
 **Databases:**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>  
+
 
 **Concepts:**  
 - Object-Oriented Programming (OOP)  

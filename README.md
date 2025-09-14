@@ -1,18 +1,11 @@
 # 👋 Hi, I'm Mohamed Samy!  
-💻 CS & Statistics Student | PHP & Laravel Back-End Developer  
-
----
-
-## 🚀 About Me  
-🎓 Passionate **student and aspiring Back-End Developer** specializing in **Web & Software Development**.  
-💡 I enjoy building robust back-end systems, exploring new technologies, and solving challenging problems.  
+💻 CS & Statistics Student | Passionate Back-End Developer (PHP & Laravel)  
 
 ---
 
 ## 🛠️ Skills  
 
-**Languages & Tools:**  
-
+**Languages:**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
@@ -20,16 +13,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
+</div>  
+
+**Frameworks & Tools:**  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-</div>
+</div>  
 
 **Concepts:**  
 - Object-Oriented Programming (OOP)  
@@ -60,6 +56,6 @@
 
 ## 📫 Contact Me  
 - [LinkedIn](https://www.linkedin.com/in/mohamed-samy-96ba022a0/)  
--  mohamedsamyt69@gmail.com  
+- mohamedsamyt69@gmail.com  
 
 ---

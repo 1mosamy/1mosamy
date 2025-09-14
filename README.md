@@ -53,7 +53,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1mosamy&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mosamy&layout=compact&theme=radical" alt="Top languages" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1mosamy&theme=radical" alt="streak stats" height="150"/>  
 </p>
+
 
 ---
 

@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Mohamed Samy!
+💻 CS & Statistics Student | PHP & Laravel Backend Developer  
 
-## 🚀 About Me
-I am a passionate student and developer specializing in web and software development. I love building projects, exploring new technologies, and solving challenging problems.
+## 🚀 About Me  
+I am a passionate **student and aspiring Back-End Developer** specializing in web and software development.  
+I enjoy building robust back-end systems, exploring new technologies, and solving challenging problems.  
 
 ## 🛠️ Skills
 

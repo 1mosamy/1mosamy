@@ -1,63 +1,65 @@
-# 👋 Hi, I'm Mohamed Samy!  
-💻 CS & Statistics Student | PHP & Laravel Back-End Developer  
+<h1 align="center">👋 Hi, I'm Mohamed Samy</h1>
+<h3 align="center">💻 CS & Statistics Student | PHP & Laravel Back-End Developer</h3>
 
 ---
 
-## 🚀 About Me  
-🎓 Passionate **student and aspiring Back-End Developer** specializing in **Web & Software Development**.  
-💡 I enjoy building robust back-end systems, exploring new technologies, and solving challenging problems.  
-
----
-
-## 🛠️ Skills  
-
-**Languages & Tools:**  
-
+<h3 align="center">🚀 About Me</h3>
 <p align="center">
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>  
-  <!-- PHP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>  
-  <!-- Laravel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50"/>  
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>  
-  <!-- HTML5 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>  
-  <!-- CSS3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>  
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>  
+  🎓 Passionate <b>student and aspiring Back-End Developer</b> specializing in <b>Web & Software Development</b>. <br/>
+  💡 I enjoy building robust back-end systems, exploring new technologies, and solving challenging problems.
 </p>
 
+---
 
-**Concepts:**  
-- OOP (Object-Oriented Programming)  
-- Data Structures  
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced **Laravel** techniques  
-- Modern **JavaScript frameworks**  
-- Building **scalable back-end applications**  
+<h3 align="left">📂 Featured Projects:</h3>
+<ul>
+  <li>🔢 <a href="https://github.com/1mosamy/calculator"><b>Calculator</b></a> — Simple calculator app using web technologies.</li>
+</ul>
 
 ---
 
-## 📂 Featured Projects  
-- 🔢 [**Calculator**](https://github.com/1mosamy/calculator) — Simple calculator app using web technologies.  
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1mosamy&show_icons=true&locale=en&layout=compact&theme=dark" alt="1mosamy" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1mosamy&show_icons=true&locale=en&theme=dark" alt="1mosamy" /></p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=1mosamy&label=Profile%20views&color=blue&style=flat" alt="1mosamy" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mosamy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1mosamy&layout=compact&theme=radical)  
-
----
-
-## 📫 Contact Me  
-- [LinkedIn](https://www.linkedin.com/in/mohamed-samy-96ba022a0/)  
--mohamedsamyt69@gmail.com  
-
----
-
+<h3 align="left">📫 Contact Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-samy-96ba022a0/" target="_blank">LinkedIn</a> <br/>
+  📧 Email: <b>mohamedsamyt69@gmail.com</b>
+</p>

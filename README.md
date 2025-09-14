@@ -24,4 +24,3 @@ I am a passionate student and developer specializing in web and software develop
 -  mohamedsamyt69@gmail.com  
 ---
 
-Feel free to check out my repositories and connect with me!

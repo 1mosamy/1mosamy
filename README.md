@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Mohamed Samy</h1>
 
 <h3 align="center">
@@ -13,14 +12,14 @@ Backend Developer | PHP Laravel & C# .NET Developer
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```csharp
 class MohamedSamy
 {
     string role = "Backend Developer";
 
-    string[] backendStack = 
+    string[] backendStack =
     {
         "PHP",
         "Laravel",
@@ -37,34 +36,40 @@ class MohamedSamy
         "Database Design"
     };
 
-    string currentFocus = 
+    string currentFocus =
         "Building scalable and secure backend systems";
 }
-````
+```
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,cs,cpp,js,html,css" />
 </p>
 
-### ⚙️ Backend Frameworks
+---
+
+## ⚙️ Backend Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,dotnet" />
 </p>
 
-### 🗄️ Database
+---
+
+## 🗄️ Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠 Tools & Technologies
+---
+
+## 🛠 Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux" />
@@ -72,26 +77,26 @@ class MohamedSamy
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-* Advanced Laravel Architecture
-* ASP.NET Core Web API
-* Entity Framework Core
-* Clean Architecture
-* Design Patterns
-* Scalable Backend Systems
+- Advanced Laravel Architecture
+- ASP.NET Core Web API
+- Entity Framework Core
+- Clean Architecture
+- Design Patterns
+- Scalable Backend Systems
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🔢 Calculator App
+## 🔢 Calculator App
 
 Modern calculator with:
 
-* 🌙 Dark / Light Mode
-* ⚡ Responsive Design
-* 🧮 Clean UI
+- 🌙 Dark / Light Mode
+- ⚡ Responsive Design
+- 🧮 Clean UI
 
 <p>
   <a href="https://github.com/1mosamy/calculator">
@@ -101,7 +106,7 @@ Modern calculator with:
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=1mosamy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
@@ -115,22 +120,22 @@ Modern calculator with:
 
 ---
 
-## 🧠 Core Concepts
+# 🧠 Core Concepts
 
 <p align="center">
 
-✔ Object-Oriented Programming
-✔ Data Structures & Algorithms
-✔ RESTful APIs
-✔ Database Design
-✔ Problem Solving
-✔ Clean Code Principles
+✔ Object-Oriented Programming  
+✔ Data Structures & Algorithms  
+✔ RESTful APIs  
+✔ Database Design  
+✔ Problem Solving  
+✔ Clean Code Principles  
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/1mosamy">
@@ -148,7 +153,7 @@ Modern calculator with:
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -159,4 +164,3 @@ Modern calculator with:
 <h3 align="center">
 ✨ "Consistency beats talent when talent doesn’t work hard."
 </h3>
-```

@@ -114,7 +114,7 @@ A responsive calculator built using:
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -124,9 +124,11 @@ A responsive calculator built using:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1mosamy&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1mosamy&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1mosamy&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1mosamy&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1mosamy&theme=tokyonight"/>
 
 </div>
 

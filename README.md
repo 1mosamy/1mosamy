@@ -1,62 +1,44 @@
-<h1 align="center">Hi 👋, I'm Mohamed Samy</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Developer | PHP Laravel & C# .NET Developer
-</h3>
+# 👋 Mohamed Samy
 
-<p align="center">
-  <a href="https://github.com/1mosamy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=PHP+Laravel+Backend+Developer;C%23+%26+.NET+Backend+Developer;CS+%26+Statistics+Student;Always+learning+new+technologies;Building+Scalable+Backend+Systems" />
-  </a>
-</p>
+### Backend Developer • PHP Laravel • C# .NET
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=PHP+%26+Laravel+Backend+Developer;C%23+%26+.NET+Backend+Developer;CS+%26+Statistics+Student;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-```csharp
-class MohamedSamy
-{
-    string role = "Backend Developer";
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-    string[] backendStack =
-    {
-        "PHP",
-        "Laravel",
-        "C#",
-        ".NET"
-    };
+🎓 CS & Statistics Student  
+💻 Backend Developer specialized in **PHP Laravel**  
+⚡ Currently learning **C# & .NET Backend Development**  
+🧠 Passionate about **Problem Solving & Clean Architecture**  
+🔥 Interested in building **scalable and secure backend systems**  
+📚 Always learning new technologies and improving my skills  
 
-    string[] concepts =
-    {
-        "OOP",
-        "Data Structures",
-        "Algorithms",
-        "REST APIs",
-        "Database Design"
-    };
-
-    string currentFocus =
-        "Building scalable and secure backend systems";
-}
-```
+<br clear="right"/>
 
 ---
 
 # ⚡ Tech Stack
 
-## 💻 Languages
+## 🖥️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,cs,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" />
 </p>
 
 ---
 
-## ⚙️ Backend Frameworks
+## 🌐 Frontend Basics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
@@ -69,7 +51,7 @@ class MohamedSamy
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux" />
@@ -77,14 +59,32 @@ class MohamedSamy
 
 ---
 
+# 🧠 Computer Science Fundamentals
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- RESTful API Development
+- Database Design
+- Problem Solving
+- Clean Code Principles
+
+---
+
 # 🌱 Currently Learning
 
+## 🔹 PHP Laravel Track
+
 - Advanced Laravel Architecture
+- Authentication & Authorization
+- API Optimization
+- Scalable Backend Systems
+
+## 🔹 C# .NET Track
+
 - ASP.NET Core Web API
 - Entity Framework Core
 - Clean Architecture
-- Design Patterns
-- Scalable Backend Systems
+- Dependency Injection
 
 ---
 
@@ -92,11 +92,17 @@ class MohamedSamy
 
 ## 🔢 Calculator App
 
-Modern calculator with:
+A responsive calculator built using:
 
-- 🌙 Dark / Light Mode
-- ⚡ Responsive Design
-- 🧮 Clean UI
+- HTML
+- CSS
+- JavaScript
+
+### ✨ Features
+
+- Dark / Light Mode
+- Responsive Design
+- Clean UI
 
 <p>
   <a href="https://github.com/1mosamy/calculator">
@@ -108,59 +114,42 @@ Modern calculator with:
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1mosamy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mosamy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=1mosamy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=1mosamy&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mosamy&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<img src="https://streak-stats.demolab.com?user=1mosamy&theme=tokyonight&hide_border=true"/>
 
-# 🧠 Core Concepts
-
-<p align="center">
-
-✔ Object-Oriented Programming  
-✔ Data Structures & Algorithms  
-✔ RESTful APIs  
-✔ Database Design  
-✔ Problem Solving  
-✔ Clean Code Principles  
-
-</p>
+</div>
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/1mosamy">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  
+<a href="https://github.com/1mosamy">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-  <a href="https://www.linkedin.com/in/mohamed-samy-96ba022a0/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/mohamed-samy-96ba022a0/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-  <a href="mailto:mohamedsamyt69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:mohamedsamyt69@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## ✨ Quote
 
----
+> "Consistency beats talent when talent doesn’t work hard."
 
-<h3 align="center">
-✨ "Consistency beats talent when talent doesn’t work hard."
-</h3>
+</div>

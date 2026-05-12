@@ -147,5 +147,4 @@ A responsive calculator built using:
 
 </p>
 
----
 

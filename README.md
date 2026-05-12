@@ -149,10 +149,3 @@ A responsive calculator built using:
 
 ---
 
-<div align="center">
-
-## ✨ Quote
-
-> "Consistency beats talent when talent doesn’t work hard."
-
-</div>

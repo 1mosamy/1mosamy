@@ -1,4 +1,4 @@
-
+````md
 <h1 align="center">Hi 👋, I'm Mohamed Samy</h1>
 
 <h3 align="center">
@@ -15,7 +15,7 @@ Backend Developer | PHP Laravel & C# .NET Developer
 
 ## 🚀 About Me
 
-
+```csharp
 class MohamedSamy
 {
     string role = "Backend Developer";
@@ -40,7 +40,9 @@ class MohamedSamy
     string currentFocus = 
         "Building scalable and secure backend systems";
 }
+````
 
+---
 
 ## ⚡ Tech Stack
 
